@@ -15,4 +15,4 @@ contador = ler_contador()
 contador -= 1
 salvar_contador(contador)
 
-print("Outro erro!")
+print(f"Contador reverso: {contador}")
